@@ -6,7 +6,7 @@ Soy un estudiante de diseño gráfico con un entusiasmo particular por el desarr
 
 El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos de aprendizaje. Si dudas, contacta.
 
-## contacto
+## Contacto
 
 [![Email](/data/Mail.png)](mailto:mquilodranh@gmail.com)
 [![Website](/data/Website.png)](https://infinn.github.io/)
