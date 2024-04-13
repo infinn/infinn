@@ -8,8 +8,10 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 
 ## contacto
 
-[![Email]](mailto:mquilodranh@gmail.com)
+[![Email](/data/Mail.svg)](mailto:mquilodranh@gmail.com)
 [![Website]](https://infinn.github.io/)
+[![Instagram]](https://www.instagram.com/antisocial_infinn/)
+[![Behance]](https://www.behance.net/matiasquilodran2)
 
 ## Tecnologías más usadas
 
