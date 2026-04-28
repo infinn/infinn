@@ -1,26 +1,23 @@
-# Hola! mi nombre es Matias
+# ¡Hey 👋! Soy InFinn 👨🏻‍💻
 
-**Diseñador gráfico y diseñador web**
+**Diseñador gráfico y desarrollador web**
 
-Soy un estudiante de diseño gráfico con un entusiasmo particular por el desarrollo web. En mi último año, me he dedicado de manera autodidacta a aprender tecnologías como HTML y JavaScript. Actualmente, estoy inmerso en el aprendizaje de Next.js, y esta página representa mi primer acercamiento a esta tecnología.
-
-El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos de aprendizaje. Si dudas, contacta.
+Combino el diseño gráfico y el desarrollo web para ofrecer productos digitales integrales. Especialista en el uso de **Astro, Next.js y Tailwind** tengo además la capacidad técnica para gestionar proyectos visuales complejos: desde **branding en Photoshop e Illustrator** hasta postproducción de video en **DaVinci Resolve** y animaciones avanzadas en **Blender y After Effects**.
 
 ## Contacto
 
 [![Email](/data/Mail.png)](mailto:mquilodranh@gmail.com)
 [![Website](/data/Website.png)](https://infinn.github.io/)
-[![Instagram](/data/Instagram.png)](https://www.instagram.com/antisocial_infinn/)
-[![Behance](/data/Behance.png)](https://www.behance.net/matiasquilodran2)
+[![Instagram](/data/Instagram.png)](https://www.instagram.com/infinn.dsng/)
 
 ## Tecnologías más usadas
 
 ### Lenguajes
 
-![Python](/data/python.png)
 ![Javascript](/data/javascript.png)
 ![Html](/data/html.png)
 ![css](/data/css.png)
+![Python](/data/python.png)
 
 ### Librerías & Frameworks
 
