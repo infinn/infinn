@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #05df72;}
+.delColor {fill: #fb2c36;}
+.cc {fill: #616e7f;}
+.share {fill: #c9d1d9";}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="10"/>
+<rect width="370px" height="230px" fill="#1d242d" rx="5" x="610" y="280"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">——— Infinn -——————————————————————————————————————————————————————-—-——————————-—-——————————-—-—————</tspan>
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">Working</tspan>.<tspan class="key">At</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Universidad Andrés Bello</tspan>
+<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">JavaScript, Python, GdScript</tspan>
+<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
+<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Spanish, English</tspan>
+<tspan x="15" y="130" class="cc">. </tspan>
+<tspan x="15" y="150" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Gaming, Trading, Game Develop</tspan>
+<tspan x="15" y="170" class="cc">. </tspan>
+<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">mquilodranh@gmail.com</tspan>
+<tspan x="15" y="210" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">matías-quilodran-b294aa2b1</tspan>
+<tspan x="15" y="230" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">infinn.dsng</tspan>
+<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">itch.io</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">infinn.itch.io</tspan>
+</text>
+
+<text x="610" y="30" fill="#c9d1d9">
+<tspan x="610" y="50" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Pocket Garden</tspan>
+<tspan x="610" y="70" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Minecraft Launcher</tspan>
+<tspan x="610" y="90" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Stocks OBS</tspan>
+<tspan x="610" y="110" class="cc">. </tspan>
+<tspan x="610" y="130" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Number</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">22</tspan>
+<tspan x="610" y="150" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Buy</tspan>:<tspan class="cc"> ............... </tspan><tspan class="share" id="last-buy">APP</tspan>
+<tspan x="610" y="170" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key" id="last-sell">Sell</tspan>:<tspan class="cc"> ................ </tspan><tspan class="share">V</tspan>
+<tspan x="610" y="190" class="cc">. </tspan>
+<tspan x="610" y="210" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">0</tspan>]:<tspan class="cc"> ................. </tspan><tspan class="share" id="share-top">VOO</tspan>
+<tspan x="610" y="230" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">1</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">META</tspan>
+<tspan x="610" y="250" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">2</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">NFLX</tspan>
+</text>
+
+<text x="15" y="290" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="290">⢯⡽⣁⣟⢳⡇⢯⡽⣁⠸⡏⣞⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢎⡅⠀⡹⣌⠧⢛⢶⡱⢛⢶⡱⢏⡳</tspan>
+<tspan x="15" y="310">⢮⣉⠯⢮⣉⠯⢳⣜⢧⡀⠻⡴⢋⡖⡆⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠈⠃⠀⠀⢀⡂⠀⢀⠄⠰⠈⠱⠎⠀⠀⢥⠮⠼⣹⢴⡙⡥⣓⣹⢴⡙</tspan>
+<tspan x="15" y="330">⡭⢮⣉⠯⠞⣝⣹⠜⣭⠶⡄⠈⠃⠀⠀⠀⢰⣶⣦⣤⣤⣀⣀⣀⣀⣀⣤⣤⣴⣶⠾⣿⣿⠈⢢⠀⠀⠀⠀⠀⠀⠀⠩⢓⡱⢨⢮⣉⠯⢆⡏⡜⣣</tspan>
+<tspan x="15" y="350">⢅⡼⠐⣎⢽⣢⢥⢫⡔⡟⣧⡓⠀⠀⠀⠀⠀⣿⣿⡿⠉⢻⣿⣿⣿⣿⣿⣿⣿⡇⠀⠘⣿⠐⢂⠁⠀⠀⠀⠀⠀⠀⠀⢣⡸⢅⡼⠐⣭⢰⢅⡼⠐</tspan>
+<tspan x="15" y="370">⠉⣎⢷⠾⢶⠉⣎⢷⡸⣎⣱⠀⠰⠀⠀⠀⠀⢿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⣷⡀⢀⣿⠀⢁⠆⠀⠀⠀⠀⠀⠀⠀⢇⡸⢇⢶⢹⠉⣎⢷⡰⡎</tspan>
+<tspan x="15" y="390">⢰⢢⢡⡙⣮⠕⡌⡆⢵⡐⣳⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⠐⠡⠂⠀⠀⠀⠀⠀⡀⣩⠒⡌⢰⢢⢡⠒⡥⢰⢢⢡</tspan>
+<tspan x="15" y="410">⡜⠌⡣⡱⠔⣚⡜⠌⡣⠝⡤⢣⢠⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⠈⡘⡁⠀⠀⠀⢠⡈⠴⡁⡳⢌⠰⣁⢎⡹⡜⠌⡣⠖</tspan>
+<tspan x="15" y="430">⡬⢱⡨⠥⠒⡡⢔⠣⢵⣋⠵⣠⠇⠮⡄⠤⠴⠀⢿⣿⣿⣿⣿⣿⣦⠀⢹⣿⡇⢸⣿⣿⣿⠐⠤⠃⠀⠄⡚⠤⢉⠒⠦⢱⠥⠒⡡⠈⢖⠥⠒⡡⡙</tspan>
+<tspan x="15" y="450">⠆⡔⡊⢂⠣⢔⠊⡑⠆⡔⡊⠔⣢⠱⠈⠑⠈⠁⣿⣿⣿⣿⣿⣿⣿⡆⢸⣿⠀⣾⣿⣿⣿⣇⠒⠉⢀⠀⠁⠂⠁⠚⠀⠃⠍⠰⠡⢃⡰⢁⠆⡔⡊</tspan>
+<tspan x="15" y="470">⠆⡔⡊⡡⢊⠤⢉⠄⡹⣈⠴⠩⠠⠂⠈⢱⠀⠀⠈⠉⠛⠛⠻⠿⠿⠇⢨⣿⠀⠿⠟⠛⠉⠀⠀⠘⢈⠢⠁⠀⠄⡠⣤⣤⠀⠀⠀⠀⠐⢂⢁⠆⡔</tspan>
+<tspan x="15" y="490">⠩⠠⠂⢂⠅⠊⠌⢒⡡⢀⣶⣶⣿⣿⣆⠈⠀⠀⠀⠉⠁⠈⢹⣷⣶⡆⢸⡇⠀⣤⠀⡄⠃⠀⠀⠀⠡⠌⠁⠁⡃⠄⣿⣿⠁⠀⠀⠀  ⡔⠐⢂</tspan>
+<tspan x="15" y="510">⠩⠠⠂⠊⠀⠈⠀⢸⠀⠀⢹⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⠘⡇⢠⣿⡇⠘⠀⠀⠀⠀⠐⠡⠀⡑⢠⢢⣿⣿⠀⠰⠀⠀⠀⠀ ⡔⠐</tspan>
+</text>
+
+<text x="610" y="300" fill="#c9d1d9">
+<tspan x="620" y="310">-———-——-—————- Shares --———-——-—————</tspan>
+<tspan class="key" x="620" y="330">Value</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">$ **,***.**</tspan>
+<tspan class="key" x="620" y="370">Today</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="delColor" id="share-today">0.21%</tspan>
+<tspan class="key" x="620" y="410">1M</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="addColor" id="share-month">6.95%</tspan>
+<tspan class="key" x="620" y="430">YTD</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="addColor" id="share-ytd">7.93%</tspan>
+<tspan class="key" x="620" y="450">ALL</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="addColor" id="share-all">40.45%</tspan>
+<tspan class="key" x="620" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-08-26</tspan>
+</text>
+
+</svg>
