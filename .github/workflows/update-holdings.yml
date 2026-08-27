@@ -1,0 +1,42 @@
+name: Update Holdings
+
+on:
+  schedule:
+    - cron: "30 17 * * 1-5"
+      timezone: "America/Santiago"
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update holdings
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python scripts/update_holdings.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add light_mode.svg dark_mode.svg
+          git diff --cached --quiet || git commit -m "chore: update holdings"
+
+          git push

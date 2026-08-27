@@ -1,0 +1,107 @@
+[
+    {
+      "ticker": "VOO",
+      "shares": 1.20273568,
+      "average_cost": 586.48
+    },
+    {
+      "ticker": "META",
+      "shares": 0.53491057,
+      "average_cost": 588.88
+    },
+    {
+      "ticker": "NFLX",
+      "shares": 3.7223791,
+      "average_cost": 91.38
+    },
+    {
+      "ticker": "PEP",
+      "shares": 2.103257,
+      "average_cost": 135.59
+    },
+    {
+      "ticker": "ADBE",
+      "shares": 0.60812659,
+      "average_cost": 317.75
+    },
+    {
+      "ticker": "MA",
+      "shares": 0.29674961,
+      "average_cost": 510.90
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 0.3486531,
+      "average_cost": 430.23
+    },
+    {
+      "ticker": "MELI",
+      "shares": 0.07803082,
+      "average_cost": 1794.16
+    },
+    {
+      "ticker": "NOW",
+      "shares": 0.83261568,
+      "average_cost": 102.09
+    },
+    {
+      "ticker": "QQQM",
+      "shares": 0.3528457,
+      "average_cost": 281.41
+    },
+    {
+      "ticker": "GOOGL",
+      "shares": 0.29691185,
+      "average_cost": 196.19
+    },
+    {
+      "ticker": "UHN",
+      "shares": 0.21855804,
+      "average_cost": 307.47
+    },
+    {
+      "ticker": "UBER",
+      "shares": 1.07180609,
+      "average_cost": 69.98
+    },
+    {
+      "ticker": "IBIT",
+      "shares": 1.78079562,
+      "average_cost": 47.73
+    },
+    {
+      "ticker": "SOFI",
+      "shares": 2,
+      "average_cost": 17.45
+    },
+    {
+      "ticker": "INTU",
+      "shares": 0.1036443,
+      "average_cost": 383.27
+    },
+    {
+      "ticker": "ORCL",
+      "shares": 0.20661157,
+      "average_cost": 145.2
+    },
+    {
+      "ticker": "TSM",
+      "shares": 0.07076306,
+      "average_cost": 423.95
+    },
+    {
+      "ticker": "APP",
+      "shares": 0.08185481,
+      "average_cost": 305.42
+    },
+    {
+      "ticker": "MCHI",
+      "shares": 0.44802867,
+      "average_cost": 55.8
+    },
+    {
+      "ticker": "HSY",
+      "shares": 0.09190382,
+      "average_cost": 217.62
+    }
+]

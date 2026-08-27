@@ -1,0 +1,20 @@
+{
+  "snapshots": [
+    {"date": "2025-04-30", "portfolio_value": 355.71, "deposits": 358},
+    {"date": "2025-05-30", "portfolio_value": 1264.97, "deposits": 1509},
+    {"date": "2025-06-30", "portfolio_value": 1611.35, "deposits": 1509},
+    {"date": "2025-07-30", "portfolio_value": 1641.68, "deposits": 1509},
+    {"date": "2025-08-30", "portfolio_value": 1990.21, "deposits": 1762},
+    {"date": "2025-09-30", "portfolio_value": 2224.81, "deposits": 1970},
+    {"date": "2025-10-30", "portfolio_value": 2712.28, "deposits": 2176},
+    {"date": "2025-11-30", "portfolio_value": 2835.10, "deposits": 2387},
+    {"date": "2025-12-30", "portfolio_value": 2351.08, "deposits": 1740},
+    {"date": "2026-01-30", "portfolio_value": 2572.27, "deposits": 2013},
+    {"date": "2026-02-30", "portfolio_value": 2815.05, "deposits": 2246},
+    {"date": "2026-03-30", "portfolio_value": 2909.27, "deposits": 2477},
+    {"date": "2026-04-30", "portfolio_value": 3370.52, "deposits": 2908},
+    {"date": "2026-05-30", "portfolio_value": 3781.37, "deposits": 3295},
+    {"date": "2026-06-30", "portfolio_value": 3680.79, "deposits": 3337},
+    {"date": "2026-07-30", "portfolio_value": 3943.27, "deposits": 3497}
+  ]
+}
