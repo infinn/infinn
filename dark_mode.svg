@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,11 +15,12 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 .share {fill: #c9d1d9";}
 text, tspan {white-space: pre;}
+.ascii {font-family: 'Courier New', Consolas, monospace;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="10"/>
-<rect width="370px" height="230px" fill="#1d242d" rx="5" x="610" y="280"/>
+<rect width="985px" height="530px" fill="#161b22" rx="10" />
+<rect width="340px" height="230px" fill="#1d242d" rx="5" x="630" y="280" />
 <text x="15" y="30" fill="#c9d1d9">
-<tspan x="15" y="30">——— Infinn -——————————————————————————————————————————————————————-—-——————————-—-——————————-—-—————</tspan>
+<tspan x="15" y="30">——— Infinn -——————————————————————————————————————————————————————-—-—————————————-—-——————-—————————-—-—————</tspan>
 <tspan x="15" y="50" class="cc">. </tspan><tspan class="key">Working</tspan>.<tspan class="key">At</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Universidad Andrés Bello</tspan>
 <tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">JavaScript, Python, GdScript</tspan>
 <tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
@@ -33,43 +34,43 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="250" class="cc">. </tspan><tspan class="key">itch.io</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">infinn.itch.io</tspan>
 </text>
 
-<text x="610" y="30" fill="#c9d1d9">
-<tspan x="610" y="50" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Pocket Garden</tspan>
-<tspan x="610" y="70" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Minecraft Launcher</tspan>
-<tspan x="610" y="90" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Stocks OBS</tspan>
-<tspan x="610" y="110" class="cc">. </tspan>
-<tspan x="610" y="130" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Number</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">22</tspan>
-<tspan x="610" y="150" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Buy</tspan>:<tspan class="cc"> ............... </tspan><tspan class="share" id="last-buy">APP</tspan>
-<tspan x="610" y="170" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key" id="last-sell">Sell</tspan>:<tspan class="cc"> ................ </tspan><tspan class="share">V</tspan>
-<tspan x="610" y="190" class="cc">. </tspan>
-<tspan x="610" y="210" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">0</tspan>]:<tspan class="cc"> ................. </tspan><tspan class="share" id="share-top">VOO</tspan>
-<tspan x="610" y="230" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">1</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">META</tspan>
-<tspan x="610" y="250" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">2</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">NFLX</tspan>
+<text x="630" y="30" fill="#c9d1d9">
+<tspan x="630" y="50" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Pocket Garden</tspan>
+<tspan x="630" y="70" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Minecraft Launcher</tspan>
+<tspan x="630" y="90" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Stocks OBS</tspan>
+<tspan x="630" y="110" class="cc">. </tspan>
+<tspan x="630" y="130" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Number</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-number">16</tspan>
+<tspan x="630" y="150" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Buy</tspan>:<tspan class="cc"> ............... </tspan><tspan class="share" id="last-buy">APP</tspan>
+<tspan x="630" y="170" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Sell</tspan>:<tspan class="cc"> ................ </tspan><tspan class="share" id="last-sell">V</tspan>
+<tspan x="630" y="190" class="cc">. </tspan>
+<tspan x="630" y="210" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">0</tspan>]:<tspan class="cc"> ................. </tspan><tspan class="share" id="share-top">VOO</tspan>
+<tspan x="630" y="230" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">1</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">META</tspan>
+<tspan x="630" y="250" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">2</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">NFLX</tspan>
 </text>
 
 <text x="15" y="290" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="290">⢯⡽⣁⣟⢳⡇⢯⡽⣁⠸⡏⣞⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢎⡅⠀⡹⣌⠧⢛⢶⡱⢛⢶⡱⢏⡳</tspan>
-<tspan x="15" y="310">⢮⣉⠯⢮⣉⠯⢳⣜⢧⡀⠻⡴⢋⡖⡆⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠈⠃⠀⠀⢀⡂⠀⢀⠄⠰⠈⠱⠎⠀⠀⢥⠮⠼⣹⢴⡙⡥⣓⣹⢴⡙</tspan>
-<tspan x="15" y="330">⡭⢮⣉⠯⠞⣝⣹⠜⣭⠶⡄⠈⠃⠀⠀⠀⢰⣶⣦⣤⣤⣀⣀⣀⣀⣀⣤⣤⣴⣶⠾⣿⣿⠈⢢⠀⠀⠀⠀⠀⠀⠀⠩⢓⡱⢨⢮⣉⠯⢆⡏⡜⣣</tspan>
-<tspan x="15" y="350">⢅⡼⠐⣎⢽⣢⢥⢫⡔⡟⣧⡓⠀⠀⠀⠀⠀⣿⣿⡿⠉⢻⣿⣿⣿⣿⣿⣿⣿⡇⠀⠘⣿⠐⢂⠁⠀⠀⠀⠀⠀⠀⠀⢣⡸⢅⡼⠐⣭⢰⢅⡼⠐</tspan>
-<tspan x="15" y="370">⠉⣎⢷⠾⢶⠉⣎⢷⡸⣎⣱⠀⠰⠀⠀⠀⠀⢿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⣷⡀⢀⣿⠀⢁⠆⠀⠀⠀⠀⠀⠀⠀⢇⡸⢇⢶⢹⠉⣎⢷⡰⡎</tspan>
-<tspan x="15" y="390">⢰⢢⢡⡙⣮⠕⡌⡆⢵⡐⣳⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⠐⠡⠂⠀⠀⠀⠀⠀⡀⣩⠒⡌⢰⢢⢡⠒⡥⢰⢢⢡</tspan>
-<tspan x="15" y="410">⡜⠌⡣⡱⠔⣚⡜⠌⡣⠝⡤⢣⢠⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⠈⡘⡁⠀⠀⠀⢠⡈⠴⡁⡳⢌⠰⣁⢎⡹⡜⠌⡣⠖</tspan>
-<tspan x="15" y="430">⡬⢱⡨⠥⠒⡡⢔⠣⢵⣋⠵⣠⠇⠮⡄⠤⠴⠀⢿⣿⣿⣿⣿⣿⣦⠀⢹⣿⡇⢸⣿⣿⣿⠐⠤⠃⠀⠄⡚⠤⢉⠒⠦⢱⠥⠒⡡⠈⢖⠥⠒⡡⡙</tspan>
-<tspan x="15" y="450">⠆⡔⡊⢂⠣⢔⠊⡑⠆⡔⡊⠔⣢⠱⠈⠑⠈⠁⣿⣿⣿⣿⣿⣿⣿⡆⢸⣿⠀⣾⣿⣿⣿⣇⠒⠉⢀⠀⠁⠂⠁⠚⠀⠃⠍⠰⠡⢃⡰⢁⠆⡔⡊</tspan>
-<tspan x="15" y="470">⠆⡔⡊⡡⢊⠤⢉⠄⡹⣈⠴⠩⠠⠂⠈⢱⠀⠀⠈⠉⠛⠛⠻⠿⠿⠇⢨⣿⠀⠿⠟⠛⠉⠀⠀⠘⢈⠢⠁⠀⠄⡠⣤⣤⠀⠀⠀⠀⠐⢂⢁⠆⡔</tspan>
-<tspan x="15" y="490">⠩⠠⠂⢂⠅⠊⠌⢒⡡⢀⣶⣶⣿⣿⣆⠈⠀⠀⠀⠉⠁⠈⢹⣷⣶⡆⢸⡇⠀⣤⠀⡄⠃⠀⠀⠀⠡⠌⠁⠁⡃⠄⣿⣿⠁⠀⠀⠀  ⡔⠐⢂</tspan>
-<tspan x="15" y="510">⠩⠠⠂⠊⠀⠈⠀⢸⠀⠀⢹⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⠘⡇⢠⣿⡇⠘⠀⠀⠀⠀⠐⠡⠀⡑⢠⢢⣿⣿⠀⠰⠀⠀⠀⠀ ⡔⠐</tspan>
+<tspan x="15" y="290">⡽⣁⣟⢳⡇⢯⡽⣁⠸⡏⣞⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢎⡅⠀⡹⣌⠧⢛⢶⡱⢛⢶⡱</tspan>
+<tspan x="15" y="310">⣉⠯⢮⣉⠯⢳⣜⢧⡀⠻⡴⢋⡖⡆⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠈⠃⠀⠀⢀⡂⠀⢀⠄⠰⠈⠱⠎⠀⠀⢥⠮⠼⣹⢴⡙⡥⣓⣹</tspan>
+<tspan x="15" y="330">⢮⣉⠯⠞⣝⣹⠜⣭⠶⡄⠈⠃⠀⠀⠀⢰⣶⣦⣤⣤⣀⣀⣀⣀⣀⣤⣤⣴⣶⠾⣿⣿⠈⢢⠀⠀⠀⠀⠀⠀⠀⠩⢓⡱⢨⢮⣉⠯⢆⡏</tspan>
+<tspan x="15" y="350">⡼⠐⣎⢽⣢⢥⢫⡔⡟⣧⡓⠀⠀⠀⠀⠀⣿⣿⡿⠉⢻⣿⣿⣿⣿⣿⣿⣿⡇⠀⠘⣿⠐⢂⠁⠀⠀⠀⠀⠀⠀⠀⢣⡸⢅⡼⠐⣭⢰⢅</tspan>
+<tspan x="15" y="370">⣎⢷⠾⢶⠉⣎⢷⡸⣎⣱⠀⠰⠀⠀⠀⠀⢿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⣷⡀⢀⣿⠀⢁⠆⠀⠀⠀⠀⠀⠀⠀⢇⡸⢇⢶⢹⠉⣎⢷</tspan>
+<tspan x="15" y="390">⢢⢡⡙⣮⠕⡌⡆⢵⡐⣳⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⠐⠡⠂⠀⠀⠀⠀⠀⡀⣩⠒⡌⢰⢢⢡⠒⡥⢰</tspan>
+<tspan x="15" y="410">⠌⡣⡱⠔⣚⡜⠌⡣⠝⡤⢣⢠⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⠈⡘⡁⠀⠀⠀⢠⡈⠴⡁⡳⢌⠰⣁⢎⡹⡜⠌</tspan>
+<tspan x="15" y="430">⢱⡨⠥⠒⡡⢔⠣⢵⣋⠵⣠⠇⠮⡄⠤⠴⠀⢿⣿⣿⣿⣿⣿⣦⠀⢹⣿⡇⢸⣿⣿⣿⠐⠤⠃⠀⠄⡚⠤⢉⠒⠦⢱⠥⠒⡡⠈⢖⠥⠒</tspan>
+<tspan x="15" y="450">⡔⡊⢂⠣⢔⠊⡑⠆⡔⡊⠔⣢⠱⠈⠑⠈⠁⣿⣿⣿⣿⣿⣿⣿⡆⢸⣿⠀⣾⣿⣿⣿⣇⠒⠉⢀⠀⠁⠂⠁⠚⠀⠃⠍⠰⠡⢃⡰⢁⠆</tspan>
+<tspan x="15" y="470">⡔⡊⡡⢊⠤⢉⠄⡹⣈⠴⠩⠠⠂⠈⢱⠀⠀⠈⠉⠛⠛⠻⠿⠿⠇⢨⣿⠀⠿⠟⠛⠉⠀⠀⠘⢈⠢⠁⠀⠄⡠⣤⣤⠀⠀⠀⠀⠐⢂⢁</tspan>
+<tspan x="15" y="490">⠠⠂⢂⠅⠊⠌⢒⡡⢀⣶⣶⣿⣿⣆⠈⠀⠀⠀⠉⠁⠈⢹⣷⣶⡆⢸⡇⠀⣤⠀⡄⠃⠀⠀⠀⠡⠌⠁⠁⡃⠄⣿⣿⠁⠀⠀⠀  ⡔</tspan>
+<tspan x="15" y="510">⠠⠂⠊⠀⠈⠀⢸⠀⠀⢹⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⠘⡇⢠⣿⡇⠘⠀⠀⠀⠀⠐⠡⠀⡑⢠⢢⣿⣿⠀⠰⠀⠀⠀⠀ </tspan>
 </text>
 
-<text x="610" y="300" fill="#c9d1d9">
-<tspan x="620" y="310">-———-——-—————- Shares --———-——-—————</tspan>
-<tspan class="key" x="620" y="330">Value</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">$ **,***.**</tspan>
-<tspan class="key" x="620" y="370">Today</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="delColor" id="share-today">0.21%</tspan>
-<tspan class="key" x="620" y="410">1M</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="addColor" id="share-month">6.95%</tspan>
-<tspan class="key" x="620" y="430">YTD</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="addColor" id="share-ytd">7.93%</tspan>
-<tspan class="key" x="620" y="450">ALL</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="addColor" id="share-all">40.45%</tspan>
-<tspan class="key" x="620" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-08-26</tspan>
+<text x="630" y="300" fill="#c9d1d9">
+<tspan x="640" y="310">-———-——-—————- Shares --———-——-—————</tspan>
+<tspan class="key" x="640" y="330">Value</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-value">$ 3,200.33</tspan>
+<tspan class="key" x="640" y="370">Today</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="addColor" id="share-today">+0.39%</tspan>
+<tspan class="key" x="640" y="410">1M</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="delColor" id="share-month">-18.84%</tspan>
+<tspan class="key" x="640" y="430">YTD</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-ytd">+36.12%</tspan>
+<tspan class="key" x="640" y="450">ALL</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-all">+26.19%</tspan>
+<tspan class="key" x="640" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-08-27</tspan>
 </text>
 
 </svg>
