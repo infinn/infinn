@@ -65,8 +65,8 @@ text, tspan {white-space: pre;}
 
 <text x="630" y="300" fill="#24292f">
 <tspan x="640" y="310">-———-——-—————- Shares --———-——-—————</tspan>
-<tspan class="key" x="640" y="330">Value</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-value">$ 3,224.22</tspan>
-<tspan class="key" x="640" y="370">Today</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="addColor" id="share-today">+0.73%</tspan>
+<tspan class="key" x="640" y="330">Value</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-value">$ 3,224.30</tspan>
+<tspan class="key" x="640" y="370">Today</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="addColor" id="share-today">+0.74%</tspan>
 <tspan class="key" x="640" y="410">1M</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="delColor" id="share-month">-18.23%</tspan>
 <tspan class="key" x="640" y="430">YTD</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-ytd">+37.14%</tspan>
 <tspan class="key" x="640" y="450">ALL</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-all">+26.19%</tspan>
