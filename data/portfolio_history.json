@@ -15,6 +15,7 @@
     {"date": "2026-04-30", "portfolio_value": 3370.52, "deposits": 2908},
     {"date": "2026-05-30", "portfolio_value": 3781.37, "deposits": 3295},
     {"date": "2026-06-30", "portfolio_value": 3680.79, "deposits": 3337},
-    {"date": "2026-07-30", "portfolio_value": 3943.27, "deposits": 3497}
+    {"date": "2026-07-30", "portfolio_value": 3943.27, "deposits": 3497},
+    {"date": "2026-08-31", "portfolio_value": 3438.79, "deposits": 2804}
   ]
 }
