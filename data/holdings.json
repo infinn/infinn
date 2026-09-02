@@ -1,8 +1,8 @@
 [
     {
       "ticker": "VOO",
-      "shares": 1.20273568,
-      "average_cost": 586.48
+      "shares": 1.238444390,
+      "average_cost": 589.76
     },
     {
       "ticker": "META",
@@ -46,8 +46,8 @@
     },
     {
       "ticker": "QQQM",
-      "shares": 0.3528457,
-      "average_cost": 281.41
+      "shares": 0.40438876,
+      "average_cost": 284.38
     },
     {
       "ticker": "GOOGL",
@@ -61,8 +61,8 @@
     },
     {
       "ticker": "UBER",
-      "shares": 1.07180609,
-      "average_cost": 69.98
+      "shares": 1.40315662,
+      "average_cost": 71.27
     },
     {
       "ticker": "IBIT",
@@ -91,13 +91,13 @@
     },
     {
       "ticker": "APP",
-      "shares": 0.08185481,
-      "average_cost": 305.42
+      "shares": 0.16148816,
+      "average_cost": 309.62
     },
     {
       "ticker": "MCHI",
-      "shares": 0.44802867,
-      "average_cost": 55.8
+      "shares": 0.63145163,
+      "average_cost": 55.43
     },
     {
       "ticker": "HSY",
