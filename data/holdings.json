@@ -30,14 +30,9 @@
       "average_cost": 510.90
     },
     {
-      "ticker": "MSFT",
-      "shares": 0.3486531,
-      "average_cost": 430.23
-    },
-    {
       "ticker": "MELI",
-      "shares": 0.07803082,
-      "average_cost": 1794.16
+      "shares": 0.09267048,
+      "average_cost": 1780.5
     },
     {
       "ticker": "NOW",
@@ -103,5 +98,15 @@
       "ticker": "HSY",
       "shares": 0.09190382,
       "average_cost": 217.62
+    },
+    {
+      "ticker": "LMT",
+      "shares": 0.09605247,
+      "average_cost": 520.55
+    },
+    {
+      "ticker": "SGOV",
+      "shares": 2,
+      "average_cost": 100
     }
 ]
