@@ -65,12 +65,12 @@ text, tspan {white-space: pre;}
 
 <text x="600" y="300" fill="#24292f">
 <tspan x="610" y="310">-———-——-—————- Shares --———-——-—————</tspan>
-<tspan class="key" x="610" y="330">Value</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-value">$ 3,365.82</tspan>
-<tspan class="key" x="610" y="370">Today</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="addColor" id="share-today">+0.27%</tspan>
-<tspan class="key" x="610" y="410">1M</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="delColor" id="share-month">-2.12%</tspan>
-<tspan class="key" x="610" y="430">YTD</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-ytd">+43.16%</tspan>
+<tspan class="key" x="610" y="330">Value</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-value">$ 3,348.62</tspan>
+<tspan class="key" x="610" y="370">Today</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="delColor" id="share-today">-0.51%</tspan>
+<tspan class="key" x="610" y="410">1M</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="delColor" id="share-month">-2.62%</tspan>
+<tspan class="key" x="610" y="430">YTD</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-ytd">+42.43%</tspan>
 <tspan class="key" x="610" y="450">ALL</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-all">+33.51%</tspan>
-<tspan class="key" x="610" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-10-06</tspan>
+<tspan class="key" x="610" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-10-07</tspan>
 </text>
 
 </svg>
