@@ -1,8 +1,8 @@
 [
     {
       "ticker": "VOO",
-      "shares": 1.238444390,
-      "average_cost": 589.76
+      "shares": 1.27398713,
+      "average_cost": 592.93
     },
     {
       "ticker": "META",
@@ -11,8 +11,8 @@
     },
     {
       "ticker": "NFLX",
-      "shares": 3.7223791,
-      "average_cost": 91.38
+      "shares": 3.94394064,
+      "average_cost": 90.05
     },
     {
       "ticker": "PEP",
@@ -41,8 +41,8 @@
     },
     {
       "ticker": "QQQM",
-      "shares": 0.40438876,
-      "average_cost": 284.38
+      "shares": 0.45340695,
+      "average_cost": 286.72
     },
     {
       "ticker": "GOOGL",
@@ -56,8 +56,8 @@
     },
     {
       "ticker": "UBER",
-      "shares": 1.40315662,
-      "average_cost": 71.27
+      "shares": 1.83481129,
+      "average_cost": 70.85
     },
     {
       "ticker": "IBIT",
@@ -75,29 +75,24 @@
       "average_cost": 383.27
     },
     {
-      "ticker": "ORCL",
-      "shares": 0.20661157,
-      "average_cost": 145.2
-    },
-    {
-      "ticker": "TSM",
-      "shares": 0.07076306,
-      "average_cost": 423.95
-    },
-    {
       "ticker": "APP",
-      "shares": 0.16148816,
+      "shares": 0.21679813,
       "average_cost": 309.62
     },
     {
       "ticker": "MCHI",
-      "shares": 0.63145163,
-      "average_cost": 55.43
+      "shares": 0.82207741,
+      "average_cost": 54.74
     },
     {
       "ticker": "HSY",
       "shares": 0.09190382,
       "average_cost": 217.62
+    },
+    {
+      "ticker": "SPGI",
+      "shares": 0.07635919,
+      "average_cost": 392.88
     },
     {
       "ticker": "LMT",
