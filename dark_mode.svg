@@ -40,8 +40,8 @@ text, tspan {white-space: pre;}
 <tspan x="600" y="90" class="cc">. </tspan><tspan class="key">Github</tspan>.<tspan class="key">Project</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Stocks OBS</tspan>
 <tspan x="600" y="110" class="cc">. </tspan>
 <tspan x="600" y="130" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Number</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" id="share-number">20</tspan>
-<tspan x="600" y="150" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Buy</tspan>:<tspan class="cc"> ............... </tspan><tspan class="share" id="last-buy">LMT</tspan>
-<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Sell</tspan>:<tspan class="cc"> ............. </tspan><tspan class="share" id="last-sell">MSFT</tspan>
+<tspan x="600" y="150" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Buy</tspan>:<tspan class="cc"> .............. </tspan><tspan class="share" id="last-buy">AVGO</tspan>
+<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Last</tspan>.<tspan class="key">Sell</tspan>:<tspan class="cc"> .............. </tspan><tspan class="share" id="last-sell">NOW</tspan>
 <tspan x="600" y="190" class="cc">. </tspan>
 <tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">0</tspan>]:<tspan class="cc"> ................. </tspan><tspan class="share" id="share-top">VOO</tspan>
 <tspan x="600" y="230" class="cc">. </tspan><tspan class="key">Shares</tspan>.<tspan class="key">Top</tspan>[<tspan class="key">1</tspan>]:<tspan class="cc"> ................ </tspan><tspan class="share" id="share-top">META</tspan>
