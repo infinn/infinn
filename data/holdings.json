@@ -1,8 +1,8 @@
 [
     {
       "ticker": "VOO",
-      "shares": 1.27398713,
-      "average_cost": 592.93
+      "shares": 1.30978784,
+      "average_cost": 595.81
     },
     {
       "ticker": "META",
@@ -11,8 +11,8 @@
     },
     {
       "ticker": "NFLX",
-      "shares": 3.94394064,
-      "average_cost": 90.05
+      "shares": 4.34465358,
+      "average_cost": 87.50
     },
     {
       "ticker": "PEP",
@@ -25,29 +25,19 @@
       "average_cost": 317.75
     },
     {
-      "ticker": "MA",
-      "shares": 0.29674961,
-      "average_cost": 510.90
-    },
-    {
       "ticker": "MELI",
-      "shares": 0.09267048,
-      "average_cost": 1780.5
-    },
-    {
-      "ticker": "NOW",
-      "shares": 0.83261568,
-      "average_cost": 102.09
+      "shares": 0.10770365,
+      "average_cost": 1764.1
     },
     {
       "ticker": "QQQM",
-      "shares": 0.45340695,
-      "average_cost": 286.72
+      "shares": 0.50580686,
+      "average_cost": 286.67
     },
     {
       "ticker": "GOOGL",
-      "shares": 0.29691185,
-      "average_cost": 196.19
+      "shares": 0.64653921,
+      "average_cost": 244.76
     },
     {
       "ticker": "UNH",
@@ -90,18 +80,13 @@
       "average_cost": 217.62
     },
     {
-      "ticker": "SPGI",
-      "shares": 0.07635919,
-      "average_cost": 392.88
-    },
-    {
-      "ticker": "LMT",
-      "shares": 0.09605247,
-      "average_cost": 520.55
-    },
-    {
       "ticker": "SGOV",
-      "shares": 2,
+      "shares": 3,
       "average_cost": 100
+    },
+    {
+      "ticker": "AVGO",
+      "shares": 0.30030138,
+      "average_cost": 333
     }
 ]
