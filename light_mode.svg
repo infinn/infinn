@@ -70,7 +70,7 @@ text, tspan {white-space: pre;}
 <tspan class="key" x="610" y="410">1M</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="delColor" id="share-month">-9.02%</tspan>
 <tspan class="key" x="610" y="430">YTD</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-ytd">+34.40%</tspan>
 <tspan class="key" x="610" y="450">ALL</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="addColor" id="share-all">+31.00%</tspan>
-<tspan class="key" x="610" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-11-25</tspan>
+<tspan class="key" x="610" y="490">Last</tspan>.<tspan class="key">Update</tspan>:<tspan class="cc"> ............ </tspan><tspan class="share" id="date">2026-11-26</tspan>
 </text>
 
 </svg>
